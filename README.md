@@ -9,6 +9,7 @@ composer require spryker-feature/marketplace-product
 ```
 
 ## Recommended feature dependencies
+- [spryker-feature/marketplace-merchant](https://github.com/spryker-feature/marketplace-merchant)
 - [spryker-feature/product](https://github.com/spryker-feature/product)
 
 If you don't include the feature dependencies, make sure you use the respective modules instead.
