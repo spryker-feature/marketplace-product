@@ -12,7 +12,8 @@
         "spryker/merchant-product-data-import": "^0.2.1",
         "spryker/merchant-product-gui": "^0.2.1",
         "spryker/merchant-product-search": "^0.2.0",
-        "spryker/merchant-product-storage": "^0.1.1"
+        "spryker/merchant-product-storage": "^0.1.1",
+        "spryker/product": "^6.25.0"
     },
     "extra": {
         "branch-alias": {
