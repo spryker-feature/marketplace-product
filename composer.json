@@ -18,7 +18,7 @@
         "spryker/product-page-search": "^3.27.0",
         "spryker/product-search": "^5.15.0",
         "spryker/product-storage": "^1.35.0",
-        "spryker/product-validity": "^1.1.0"
+        "spryker/product-validity": "^1.2.0"
     },
     "extra": {
         "branch-alias": {
