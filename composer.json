@@ -10,7 +10,7 @@
         "spryker-shop/merchant-product-widget": "^1.0.0",
         "spryker/merchant-product": "^1.2.0",
         "spryker/merchant-product-data-import": "^0.3.0",
-        "spryker/merchant-product-gui": "^1.0.0",
+        "spryker/merchant-product-gui": "^1.1.0",
         "spryker/merchant-product-search": "^1.0.0",
         "spryker/merchant-product-storage": "^1.0.0",
         "spryker/product": "^6.25.0",
