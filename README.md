@@ -2,6 +2,8 @@
 
 Adds merchant information to the product that a merchant sells. Such products are called merchant products.
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/marketplace/marketplace-product-feature-overview.html)
+
 ## Installation
 
 ```
