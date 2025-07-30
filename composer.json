@@ -9,7 +9,7 @@
         "php": ">=8.2",
         "spryker-shop/merchant-product-widget": "^1.5.0",
         "spryker/merchant-product": "^1.8.0",
-        "spryker/merchant-product-data-import": "^0.3.0",
+        "spryker/merchant-product-data-import": "^0.4.0",
         "spryker/merchant-product-gui": "^1.2.0",
         "spryker/merchant-product-search": "^1.4.0",
         "spryker/merchant-product-storage": "^1.5.0",
@@ -22,7 +22,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202507.x-dev"
+            "dev-master": "202510.x-dev"
         }
     },
     "suggest": {
